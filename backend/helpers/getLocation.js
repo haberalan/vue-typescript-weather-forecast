@@ -1,3 +1,5 @@
+const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
+
 const getLocation = async (city) => {
   const res = await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${process.env.API_KEY}`);
 
