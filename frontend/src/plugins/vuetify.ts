@@ -10,6 +10,7 @@ import { ThemeDefinition } from 'vuetify/lib/framework.mjs';
 const light: ThemeDefinition = {
   dark: false,
   colors: {
+    app1: '#d3d3d3',
     background: '#e7ecef',
   },
 };
@@ -17,7 +18,8 @@ const light: ThemeDefinition = {
 const dark: ThemeDefinition = {
   dark: true,
   colors: {
-    background: '#003459',
+    app1: '#d3d3d3',
+    background: '#191919',
   },
 };
 
