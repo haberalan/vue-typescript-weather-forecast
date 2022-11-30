@@ -16,8 +16,7 @@ Weather forecast - [demo](https://haber-weather-forecast.netlify.app/)
 
 # To do
 
-- Add favorites cities
-- Add list of weather for next 5 days.
+- ?
 
 ## Installation
 
