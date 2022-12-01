@@ -1,6 +1,6 @@
 # vue-typescript-weather-forecast
 
-Weather forecast - [demo](https://haber-weather-forecast.netlify.app/)
+Weather Forecast - [demo](https://haber-weather-forecast.netlify.app/)
 
 ## Technologies
 
