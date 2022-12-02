@@ -12,7 +12,7 @@ Weather Forecast - [demo](https://haber-weather-forecast.netlify.app/)
 
 ## Features
 
-- You can check weather of selected city.
+- You can check weather of selected city
 
 # To do
 
