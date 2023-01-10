@@ -1,6 +1,6 @@
 <template>
   <footer class="pb-1">
-    <v-btn href="https://github.com/haberalan" variant="plain">&copy; 2022 Alan Haber</v-btn>
+    <v-btn href="https://github.com/haberalan" variant="plain">&copy; {{ new Date().getFullYear() }} Alan Haber</v-btn>
   </footer>
 </template>
 
